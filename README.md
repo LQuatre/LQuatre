@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @L4
 - 👀 I’m interested in FiveM and video game development
-- 🌱 I’m currently learning LUA / HTML / CSS / JS
+- 🌱 I’m currently learning LUA / JS
