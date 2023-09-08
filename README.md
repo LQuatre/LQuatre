@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LQuatre&theme=github)](https://github.com/LQuatre/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LQuatre&theme=github-compact)](https://github.com/LQuatre/github-readme-activity-graph)
 
 <br/>
 <br/>
