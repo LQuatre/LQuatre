@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Salut, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> je suis HydraDev</h1>
-<h3 align="center">Passionné par la programmation dans le domaine du web.</h3>
+<h1 align="center">Salut, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> je suis LQuatre</h1>
+<h3 align="center">Passionné par la programmation.</h3>
 <h3 align="center"><img src="https://icon-library.com/images/france-icon/france-icon-15.jpg"/ width="45"></h3>
 
 
