@@ -35,7 +35,7 @@
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=HydraDevFR&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=LQuatre&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -51,7 +51,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/HydraDevFR/github-readme-activity-graph"><img alt="Graphique d'activité de HydraDev" src="https://activity-graph.herokuapp.com/graph?username=HydraDevFR&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/LQuatre/github-readme-activity-graph"><img alt="Graphique d'activité de HydraDev" src="https://activity-graph.herokuapp.com/graph?username=LQuatre&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -66,6 +66,6 @@
 
 ## ❤ Vues et abonnés
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=HydraDevFR">
+    <img src="https://komarev.com/ghpvc/?username=LQuatre">
 </a>
-<a href="https://github.com/HydraDevFR?tab=followers"><img src="https://img.shields.io/github/followers/HydraDevFR?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/LQuatre?tab=followers"><img src="https://img.shields.io/github/followers/LQuatre?label=Followers&style=social" alt="GitHub Badge"></a>
