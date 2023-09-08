@@ -51,7 +51,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/LQuatre/github-readme-activity-graph"><img alt="Graphique d'activité de HydraDev" src="https://activity-graph.herokuapp.com/graph?username=LQuatre&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LQuatre&theme=dracula)](https://github.com/LQuatre/github-readme-activity-graph)
 
 <br/>
 <br/>
