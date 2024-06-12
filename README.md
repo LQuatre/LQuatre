@@ -9,7 +9,7 @@
 
 - 💻 Fondateur/Développeur de **[zDeveloppement](https://zdevpro.fr/public/index.html)**
 
-- 📫 Voici mon adresse mail perso **contact@lquatre.fr**
+- 📫 Voici mon adresse mail de contact **contact@lquatre.fr**
 
 - ⚡ Soif de vouloir apprendre.
 
