@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ À propos de moi
 
-- 💻 Fondateur/Développeur de **[zDeveloppement]([https://zdevpro.fr/public/index.html](https://www.youtube.com/@zdevfivem5158/)** et **[zAgency](https://zdevagency.fr/)**
+- 💻 Fondateur/Développeur de **[zDeveloppement](https://www.youtube.com/@zdevfivem5158/)** et **[zAgency](https://zdevagency.fr/)**
 
 - 📫 Voici mon adresse mail de contact **contact@lquatre.fr**
 
